@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-st.set_page_config(layout="wide")
-
+st.set_page_config(layout="wide", theme={"base": "light"})
 # Streamlit Community: https://tati-aceapprios.streamlit.app/
 
 
