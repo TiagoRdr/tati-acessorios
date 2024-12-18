@@ -63,16 +63,7 @@ def format_monetary(column : str):
 
 #Barra lateral de filtros
 def filter_sidebar(df_vendas):
-    # Configuração e imagem do cabeçalho
-    # st.sidebar.markdown(
-    #     """
-    #     <div style="text-align: center; padding: 10px;">
-    #         <img src="images.jpg" style="width: 60%; border-radius: 10px;">
-    #     </div>
-    #     """, 
-    #     unsafe_allow_html=True
-    # )
-    st.sidebar.image("logo.jpg", use_column_width=True)
+    st.sidebar.image("logo.jpg", use_container_width=True)
 
 
     # Título dos filtros
