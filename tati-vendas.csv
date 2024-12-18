@@ -1,0 +1,19 @@
+id venda,Dia,Nome do cliente,valor da venda,Pago,id da peça,produto
+1,11/12,Lisiane,"R$33,70",Não,1,Brinco circular cravejado
+2,11/12,Mãe,"R$41,70",Não,10,Pulseira 3 corações preta
+3,12/12,Mari,"R$21,90",Sim,"16",brinco gota azul
+3,12/12,Mari,"R$35,70",Sim,"4",Colar estrela do Mar
+4,12/12,Maria,"R$27,00",Não,18,Trio colorido
+5,13/12,Suzana,"R$25,00",Não,14,Brinco argola c/ coração vazado
+6,13/12,Bia,"R$31,50",Não,2,Brinco raminho cravejado
+7,09/12,Bia,"R$13,90",Sim,6,Colar coração cristal
+8,09/12,Bia,"R$26,70",Sim,17,Trio colorido rosa
+9,11/12,Tiago,"R$29,70",Sim,21,Pulseira 3 corações vermelho
+10,14/12,Tia Silvia,"R$23,00",Sim,13,Brinco ponto de luz esmeralda
+11,14/12,Sogra,"R$44,00",Sim,8,Colar coração liso preenchido
+12,14/12,Tia Silvia,"R$23,00",Sim,15,Brinco laço cravejado color
+13,14/12,Eu,"R$9,90",Sim,20,Choker Mini Corações Groumet
+14,15/12,Karol,"R$28,00",Não,5,Choker bolinhas penduradas
+15,20/12,Helaine,"R$36,90",Não,9,Choker elinhos corações
+16,20/12,Ana,"R$38,70",Nao,11,Pulseira corações chapinha
+17,20/12,Eva,"R$24,00",Não,19,Brinco laço
