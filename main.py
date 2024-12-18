@@ -121,7 +121,7 @@ def card_show(df_filtered):
     card_template = """
     <div
     style="
-        background-color: rgb(28, 100, 34); 
+        background-color: #05241f; 
         border-radius: 10px; 
         border: 1px solid white; 
         padding: 20px; 
