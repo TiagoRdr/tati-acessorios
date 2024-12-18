@@ -11,11 +11,11 @@ st.set_page_config(layout="wide")
 st.markdown(
     """
     <div style="text-align: center; padding: 40px; background-color: transparent;">
-        <h1 style="color: rgb(28, 100, 34); font-weight: bold; font-size: 70px; margin: 0; 
+        <h1 style="color: #05241f; font-weight: bold; font-size: 70px; margin: 0; 
                    text-shadow: 3px 3px 5px rgba(0,0,0,0.3); animation: fadeIn 2s ease-in;">
             TATA ACESSÓRIOS
         </h1>
-        <h3 style="color: rgb(28, 100, 34); font-weight: bold; font-size: 30px; margin: 0;
+        <h3 style="color: #05241f; font-weight: bold; font-size: 30px; margin: 0;
                    text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: fadeIn 3s ease-in;">
             DASHBOARD | VENDAS E PRODUTOS
         </h3>
@@ -73,8 +73,8 @@ def filter_sidebar(df_vendas):
     st.sidebar.markdown(
         """
         <hr style="border: 1px solid #ccc;">
-        <h1 style="text-align: center; color: rgb(28, 100, 34);">Filtros</h1>
-        <p style="text-align: center; font-size: 14px; color: rgb(28, 100, 34);">
+        <h1 style="text-align: center; color: #05241f;">Filtros</h1>
+        <p style="text-align: center; font-size: 14px; color: #05241f;">
             Ajuste os filtros abaixo para refinar os dados exibidos.
         </p>
         """,
