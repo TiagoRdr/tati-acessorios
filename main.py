@@ -4,6 +4,9 @@ import plotly.graph_objects as go
 
 st.set_page_config(layout="wide")
 
+# Streamlit Community: https://tati-aceapprios.streamlit.app/
+
+
 # Título do Dashboard com animação, texto na cor rgb(28, 100, 34) e fundo transparente
 st.markdown(
     """
